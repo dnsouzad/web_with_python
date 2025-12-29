@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+
+button{
+    background-color: #a5a5a5;
+    font-size: 20px;
+    margin: 10px;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+p{
+    font-size: 18px;
+    color: green;
+    text-align: center;
+}
+
+button:hover{
+    background-color: darkblue;
+}
